@@ -5,4 +5,5 @@ airborne transmission of virus and help them prepare beforehand for such situati
 
 The data source is taken from Kaggle repository (https://www.kaggle.com/datasets/johnjdavisiv/us-counties-covid19-weather-sociohealth-data)
 
-This was done as a part of Masters Project.
+This was done as a part of Masters Project in Spring 2023. 
+
